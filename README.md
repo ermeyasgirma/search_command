@@ -31,7 +31,7 @@ Set up the right permissions for our script:
   
 To load our command into the current terminal session we do 
 
-        source ~/my_custom_commands.sh
+        source ~/.custom_commands.sh
         
 However to save us having to do this everytime we open a new terminal, we can add it to ~/.bashrc, which is executed each time you open a new terminal sessions
 
