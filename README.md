@@ -1,4 +1,4 @@
-# search_command
+# Custom Search Command
 
 This project adds a terminal command aptly named "search", which allows you to enter a question, after which it launches the top stackoverflow search result, or the top result in a new tab.
 
